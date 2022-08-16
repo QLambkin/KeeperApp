@@ -19,7 +19,7 @@ function App() {
         return index !== id;
       });
     });
-  }
+  }  
 
   return (
     <div>
