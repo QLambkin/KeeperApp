@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/QLambkin/KeeperApp/",
+  "homepage": "https://qlambkin.github.io/KeeperApp/",
   "engines": {
     "node": "14.15.0"
   },
